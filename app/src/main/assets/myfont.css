@@ -1,0 +1,20 @@
+@font-face {
+     font-family: 'MyWebFont';
+     src:url('fonts/KaiXinSong2.1.ttf') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+ }
+
+ @font-face {
+     font-family: 'MyWebFont';
+     src:url('fonts/FZSong-RKXX(SIP).TTF') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+ }
+
+ @font-face {
+     font-family: 'MyWebFont';
+     src:url('fonts/FZSong-RKXX.TTF') format('truetype');
+     font-weight: normal;
+     font-style: normal;
+ }
